@@ -9,14 +9,14 @@ I can develop an API with some features (Node.JS is :fire::fire::fire:)or front 
 When I'm coding I use :
 
 ###  :boom:Javascript:boom:
-###  :boom:HTML:boom:
-###  :boom:CSS:boom:
-###  :boom:EJS:boom:
-###  :boom:Sequelize:boom:
-###  :boom:Postgresql:boom:
-###  :boom:MangoDB:boom:
-###  :boom:NodeJS:boom:
-###  :boom:GitHub:boom:
+###   HTML:boom:
+###  :boom:CSS
+###   EJS:boom:
+###  :boom:Sequelize
+###   Postgresql:boom:
+###   MangoDB:boom:
+###  :boom:NodeJS
+###   GitHub:boom:
 
 and other tools are in loading...:construction:
 
