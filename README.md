@@ -4,19 +4,19 @@ I'm a Junior developer working on Javascript and i'm from Paris :fr:
 
 You can see my work and projects on this page :hammer_and_wrench:
 
-I can develop an API with some features (Node.JS is :fire::fire::fire:)or front end with vanilla Javascript.
+I can develop on back end  with some tools or front end with vanilla Javascript.
 
 When I'm coding I use :
 
-###  :boom:Javascript:boom:
-###   HTML:boom:
-###  :boom:CSS
-###   EJS:boom:
-###  :boom:Sequelize
-###   Postgresql:boom:
-###   MangoDB:boom:
-###  :boom:NodeJS
-###   GitHub:boom:
+###   Javascript
+###   HTML
+###   CSS
+###   EJS
+###   Sequelize
+###   Postgresql
+###   MangoDB
+###   NodeJS
+###   GitHub
 
 and other tools are in loading...:construction:
 
