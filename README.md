@@ -8,13 +8,13 @@ I can develop an API with some features (Node.JS is :fire::fire::fire:)or front 
 
 When I'm coding I use :
 
-# Javascript :boom:
-# HTML :boom:
-# CSS :boom:
-# Sequelize :boom:
-# Postgresql :boom:
-# MangoDB :boom:
-# NodeJS :boom:
+### Javascript :boom:
+### HTML :boom:
+### CSS :boom:
+### Sequelize :boom:
+### Postgresql :boom:
+### MangoDB :boom:
+### NodeJS :boom:
 
 and other tools are in loading...:construction:
 
