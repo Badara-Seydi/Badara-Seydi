@@ -11,6 +11,7 @@ When I'm coding I use :
 ###  :boom:Javascript:boom:
 ###  :boom:HTML:boom:
 ###  :boom:CSS:boom:
+###  :boom:EJS:boom:
 ###  :boom:Sequelize:boom:
 ###  :boom:Postgresql:boom:
 ###  :boom:MangoDB:boom:
