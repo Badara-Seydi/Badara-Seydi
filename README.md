@@ -4,19 +4,11 @@ I'm a Junior developer working on Javascript and i'm from Paris :fr:
 
 You can see my work and projects on this page :hammer_and_wrench:
 
-I can develop on back end  with some tools or front end with vanilla Javascript.
+I can develop on back end  with some tools or front end with vanilla Javascript or React.
 
-When I'm coding I use :
+Languages & Tools:
 
-###   Javascript
-###   HTML
-###   CSS
-###   EJS
-###   Sequelize
-###   Postgresql
-###   MangoDB
-###   NodeJS
-###   GitHub
+<i class="devicon-vscode-plain colored"></i><i class="devicon-html5-plain-wordmark colored"></i><i class="devicon-css3-plain-wordmark colored"></i><i class="devicon-javascript-plain colored"></i><i class="devicon-nodejs-plain-wordmark colored"></i><i class="devicon-react-original-wordmark colored"></i><i class="devicon-postgresql-plain-wordmark colored"></i><i class="devicon-sequelize-plain-wordmark colored"></i><i class="devicon-github-original colored"></i>
 
 and other tools are in loading...:construction:
 
