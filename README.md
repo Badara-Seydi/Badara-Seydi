@@ -4,9 +4,9 @@ I'm a Junior developer working on Javascript and i'm from Paris :fr:
 
 You can see my work and projects on this page :hammer_and_wrench:
 
-I can develop on back end  with some tools or front end with vanilla Javascript or React.
+I can develop on Javascript back and front with some tools.
 
-Languages & Tools:
+###Languages & Tools:
 
 
 
@@ -16,7 +16,7 @@ Languages & Tools:
 
 
 
-and other tools are in loading...:construction:
+and other languages are in loading...:construction:
 
 Enjoy my git and tell me what you think about my projects . My Linkedin and my mail are in my description 
 
