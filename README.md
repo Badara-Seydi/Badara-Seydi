@@ -22,6 +22,16 @@ and other languages are in loading...:construction:
 
 ---
 
+### My developer routine 
+
+```mermaid
+  graph TD;
+      Learning new languages or tool-->Trying it;
+      Trying it-->That's so cool;
+      That's so cool-->Learning new languages or tool;
+```
+
+---
 Enjoy my git and tell me what you think about my projects . My Linkedin and my mail are in my description 
 
 Bye ! :wave:
