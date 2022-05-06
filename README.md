@@ -26,9 +26,9 @@ and other languages are in loading...:construction:
 
 ```mermaid
   graph TD;
-      Learning-->Trying;
-      Trying-->Cool;
-      Cool-->Learning;
+      NewLanguage-->Testing;
+      Tesing-->Cool;
+      Cool-->SoNewLanguage;
 ```
 
 ---
