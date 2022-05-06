@@ -8,7 +8,10 @@ I can develop on back end  with some tools or front end with vanilla Javascript 
 
 Languages & Tools:
 
-<i class="devicon-vscode-plain colored"></i><i class="devicon-html5-plain-wordmark colored"></i><i class="devicon-css3-plain-wordmark colored"></i><i class="devicon-javascript-plain colored"></i><i class="devicon-nodejs-plain-wordmark colored"></i><i class="devicon-react-original-wordmark colored"></i><i class="devicon-postgresql-plain-wordmark colored"></i><i class="devicon-sequelize-plain-wordmark colored"></i><i class="devicon-github-original colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+
+
 
 and other tools are in loading...:construction:
 
