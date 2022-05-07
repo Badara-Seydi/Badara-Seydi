@@ -36,11 +36,11 @@ and other languages are in loading...:construction:
 ```
 
 ---
-![image](https://user-images.githubusercontent.com/80858846/167230502-5a452abd-6a36-4dcf-9d48-99a879b1a834.png)
 
 ### Connect with me :
 
-<img width="100px" src="https://user-images.githubusercontent.com/80858846/167229950-b484326b-3823-4349-bf10-b9ca7991e381.png"/>(https://badara-seydi.netlify.app)
+<a href="https://badara-seydi.netlify.app" rel="Portfolio">![img_portfolio](https://user-images.githubusercontent.com/80858846/167230735-a22a1438-be52-4697-9484-08a467e22ab4.png)</a>
+
 
 ---
 Enjoy my git and tell me what you think about my projects . My Linkedin and my mail are in my description 
