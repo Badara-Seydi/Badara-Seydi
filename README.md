@@ -39,7 +39,7 @@ and other languages are in loading...:construction:
 
 ### Connect with me 
 
-[![img_contact](https://user-images.githubusercontent.com/80858846/167229950-b484326b-3823-4349-bf10-b9ca7991e381.png)](https://badara-seydi.netlify.app)
+[![img_contact](https://user-images.githubusercontent.com/80858846/167229950-b484326b-3823-4349-bf10-b9ca7991e381.png width="100px")](https://badara-seydi.netlify.app)
 
 ---
 Enjoy my git and tell me what you think about my projects . My Linkedin and my mail are in my description 
