@@ -4,11 +4,20 @@
 ---
 ### Hi people 👋
 
-I'm a Junior developer working on Javascript and i'm from Paris :fr: 
+I'm a developer working on Javascript and i'm from Paris :fr: 
+
+although I was coding on my own for 2 years,I decided to take courses in order to have the best possible practices
+
+I was studying in the O'Clock school for 6 months to consolidate my
+website development knowledge.
+
+Several projects during this training allowed me to have a more precise, clear and efficient code.
+
+since learning new languages or framework motivates me day by day
 
 You can see my work and projects on this page :hammer_and_wrench:
 
-I can develop on Javascript back and front with some tools.
+Let me know if you have questions.
 
 ---
 
@@ -18,11 +27,14 @@ I can develop on Javascript back and front with some tools.
 
 
 <img  width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
-<img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+<img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img  width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 
+### in loading: 
 
-and other languages are in loading...:construction:
+<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
+
 
 ---
 
