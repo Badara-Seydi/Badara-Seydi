@@ -43,7 +43,7 @@ and other languages are in loading...:construction:
 
 <a width="100px" href="https://www.linkedin.com/in/badara-seydi-8a4610214/" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167230959-3fb6878b-9b59-4a25-9508-069ebbd84802.png"/></a>
 
- <a   width="100px" href="mailto:badara.seydi.dev@gmail.com"><img src="https://user-images.githubusercontent.com/80858846/167231100-5b2989b0-02a4-4263-b92b-43cc404b2dc9.png"/></a>
+ <a href="mailto:badara.seydi.dev@gmail.com"><img width="100px" src="https://user-images.githubusercontent.com/80858846/167231100-5b2989b0-02a4-4263-b92b-43cc404b2dc9.png"/></a>
 
 
 
