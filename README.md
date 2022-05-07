@@ -1,4 +1,4 @@
-<img src="./Videos/Captures/photo_github" />
+<img src="./img/photo_github" />
 
 
 ---
