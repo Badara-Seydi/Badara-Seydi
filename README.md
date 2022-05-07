@@ -1,7 +1,7 @@
 
 ### Web development in progress: 
 
-<img  width="500px" height="20px" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1" />
+<img  width="500px" height="80px" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1" />
 
 ---
 ### Hi people 👋
