@@ -1,4 +1,4 @@
-<img src="C:\Users\Dox\Videos\Captures\photo_github" />
+<img src="./Videos/Captures/photo_github" />
 
 
 ---
