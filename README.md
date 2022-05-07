@@ -1,4 +1,4 @@
-![image_github](C:\Users\Dox\Videos\Captures\photo_github)
+<img src="C:\Users\Dox\Videos\Captures\photo_github" />
 
 
 ---
