@@ -22,6 +22,10 @@ and other languages are in loading...:construction:
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badara-Seydi)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### My developer routine 
 
 ```mermaid
