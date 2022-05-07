@@ -37,26 +37,11 @@ and other languages are in loading...:construction:
 
 ---
 
-### Connect with me 
+### Connect with me :
 
-[![img_contact](https://user-images.githubusercontent.com/80858846/167229950-b484326b-3823-4349-bf10-b9ca7991e381.png width="100px")](https://badara-seydi.netlify.app)
+[![img_contact](<img src="https://user-images.githubusercontent.com/80858846/167229950-b484326b-3823-4349-bf10-b9ca7991e381.png"alt="drawing" width="100"/>)](https://badara-seydi.netlify.app)
 
 ---
 Enjoy my git and tell me what you think about my projects . My Linkedin and my mail are in my description 
 
 Bye ! :wave:
-
-<!--
-**Badara-Seydi/Badara-Seydi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
