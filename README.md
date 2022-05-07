@@ -39,7 +39,7 @@ and other languages are in loading...:construction:
 
 ### Connect with me :
 
-<a width="100px" href="https://badara-seydi.netlify.app" rel="Portfolio">![img_portfolio](https://user-images.githubusercontent.com/80858846/167230735-a22a1438-be52-4697-9484-08a467e22ab4.png)</a>
+<a width="100px" href="https://badara-seydi.netlify.app" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167230735-a22a1438-be52-4697-9484-08a467e22ab4.png"/></a>
 
 
 ---
