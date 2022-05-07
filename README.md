@@ -43,9 +43,11 @@ and other languages are in loading...:construction:
 
 ### Connect with me :
 
-<a href="https://badara-seydi.netlify.app" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167230735-a22a1438-be52-4697-9484-08a467e22ab4.png"/></a>     <a href="https://www.linkedin.com/in/badara-seydi-8a4610214/" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167230959-3fb6878b-9b59-4a25-9508-069ebbd84802.png"/></a>     <a href="mailto:badara.seydi.dev@gmail.com"><img width="100px" src="https://user-images.githubusercontent.com/80858846/167231100-5b2989b0-02a4-4263-b92b-43cc404b2dc9.png"/></a>
+<a href="https://badara-seydi.netlify.app" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167230735-a22a1438-be52-4697-9484-08a467e22ab4.png"/></a>     <a href="https://www.linkedin.com/in/badara-seydi-8a4610214/" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167230959-3fb6878b-9b59-4a25-9508-069ebbd84802.png"/></a>     <a href="mailto:badara.seydi.dev@gmail.com"><img width="100px" src="https://user-images.githubusercontent.com/80858846/167231100-5b2989b0-02a4-4263-b92b-43cc404b2dc9.png"/></a>     <a href="https://www.linkedin.com/in/badara-seydi-8a4610214/" rel="Portfolio"><img  width="100px" src="https://user-images.githubusercontent.com/80858846/167232294-11dc8002-546d-42bc-a96d-af70d277cf69.png"/></a>
 
+Badara-S#8507
 
+![image](https://user-images.githubusercontent.com/80858846/167232388-2941083f-54c9-4e29-bfa7-cd461ceb65ff.png)
 
 
 ---
