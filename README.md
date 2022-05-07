@@ -1,5 +1,7 @@
 
-### learning progress: <img  width="700px" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1" />
+### learning progress: 
+
+<img  width="500px" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1" />
 
 ---
 ### Hi people 👋
