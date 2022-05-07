@@ -1,3 +1,7 @@
+![image_github](C:\Users\Dox\Videos\Captures\photo_github)
+
+
+---
 ### Hi people 👋
 
 I'm a Junior developer working on Javascript and i'm from Paris :fr: 
