@@ -36,6 +36,12 @@ and other languages are in loading...:construction:
 ```
 
 ---
+
+### Connect with me 
+
+[![img_contact](./img/web.png)](https://badara-seydi.netlify.app)
+
+---
 Enjoy my git and tell me what you think about my projects . My Linkedin and my mail are in my description 
 
 Bye ! :wave:
